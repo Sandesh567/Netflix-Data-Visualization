@@ -13,7 +13,7 @@ It focuses on understanding Netflix’s content trends through **data cleaning, 
 
 
 ### 2️⃣ Percentage Content Rating Distribution  
-![Content Rating Pie Chart](images/content_rating.png')  
+![Content Rating Pie Chart](images/content_rating.png)  
 *Pie chart showing that most Netflix titles fall under **TV-MA**, meaning Netflix focuses heavily on mature content.*  
 
 
@@ -25,7 +25,7 @@ It focuses on understanding Netflix’s content trends through **data cleaning, 
 
 
 ### 4️⃣ Release Year vs Number of Shows  
-![Release Year vs Shows](images/release year.png)  
+![Release Year vs Shows](images/release_year.png)  
 *Scatter plot showing Netflix’s rapid content growth after **2015**.*  
 
 
