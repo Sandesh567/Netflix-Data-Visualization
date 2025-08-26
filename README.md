@@ -7,7 +7,7 @@ It focuses on understanding Netflix’s content trends through **data cleaning, 
 ## 📊 Visualizations & Insights  
 
 ### 1️⃣ Number of Movies vs Web Series  
-(images/movie_vs_shows.png)  
+![Movies vs Web Series](images/movie_vs_shows.png) 
 *Bar graph showing that Netflix has more Movies than Web Series, indicating a movie-dominant catalog.*  
 
 
